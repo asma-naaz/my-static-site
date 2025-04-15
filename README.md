@@ -23,7 +23,7 @@ The first step was to create the `index.html` file. Here’s the basic HTML stru
 # Initialized the git repository using git init.
 
 * Added the index.html and style.css files to the repository using git add ..
-* Committed the changes with a message using git commit -m "Initial commit with static website files".
+* Committed the changes with a message using git commit -m "second commit".
 * Pushed the changes to GitHub using git push -u origin main.
 
 # Enable GitHub Pages
