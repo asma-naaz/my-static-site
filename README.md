@@ -41,8 +41,8 @@ https://asma-naaz.github.io/my-static-site/
 
 This link will display the static website that I deployed.
 
-6. Customize with CSS
-I added a style.css file to customize the look and feel of the website. The file includes simple styling rules, such as background color, text alignment, and font styles:
+Customize with CSS
+* I added a style.css file to customize the look and feel of the website. The file includes simple styling rules, such as background color, text alignment, and font styles:
 
 ![Screenshot 2025-04-15 112404](https://github.com/user-attachments/assets/abed64b1-d9e3-4837-81d4-9d02968deefe)
 
